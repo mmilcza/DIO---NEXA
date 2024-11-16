@@ -4,7 +4,7 @@ Sejam bem vindos!
 
 Entrega do prompt "Plano de Treino Personalizado" referente ao bootcamp: Nexa - Engenharia de Prompts na AWS com Claude.
 
-Exemplo de execução com o chatGPT
+***Exemplo de execução com o ChatGPT***
 
 **Treino Ideal para Marcio Guimarães**
 
